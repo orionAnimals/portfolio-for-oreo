@@ -338,7 +338,7 @@ i{
 .photoInAbout1{
     width: 25%;
     height: 300px;
-    background-image: url(/img/photoInAbout1.png);
+    background-image: url(https://raw.githubusercontent.com/orionAnimals/portfolio-for-oreo/main/img/photoInAbout1.png);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-left: 3%;
