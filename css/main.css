@@ -209,14 +209,14 @@ i{
 
 .photo1{
     height: 400px;
-    background-image: url(.../img/photo1.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo1.png);
     background-repeat: no-repeat;
     display: block;
     position: relative;
 }
 .photo2{
     height: 400px;
-    background-image: url(.../img/photo2.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo2.png);
     background-repeat: no-repeat;
     display: block;
     position: relative;
@@ -224,14 +224,14 @@ i{
 }
 .photo3{
     height: 400px;
-    background-image: url(/img/photo3.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo3.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo4{
     height: 400px;
-    background-image: url(/img/photo4.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo4.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -239,14 +239,14 @@ i{
 }
 .photo5{
     height: 400px;
-    background-image: url(/img/photo5.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo5.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo6{
     height: 400px;
-    background-image: url(/img/photo6.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo6.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -254,14 +254,14 @@ i{
 }
 .photo7{
     height: 637px;
-    background-image: url(/img/photo7.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo7.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo8{
     height: 315px;
-    background-image: url(/img/photo8.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo8.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -269,7 +269,7 @@ i{
 }
 .photo9{
     height: 315px;
-    background-image: url(/img/photo9.png);
+    background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo9.png);
     background-repeat: no-repeat;
     display: flex;
     position: static;
@@ -549,56 +549,56 @@ i{
     .photo1{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo1Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo1Full.png);
         background-size: 100%;
     }
     .photo2{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo2Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo2Full.png);
         background-size: 100%;
     }
     .photo3{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo3Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo3Full.png);
         background-size: 100%;
     }
     .photo4{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo4Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo4Full.png);
         background-size: 100%;
     }
     .photo5{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo5Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo5Full.png);
         background-size: 100%;
     }
     .photo6{
         width: 100%;
         margin-bottom: -1.7%;
-        background-image: url(/img/photo6Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo6Full.png);
         background-size: 100%;
     }
     .photo7{
         width: 100%;
         height: auto;
         margin-bottom: .3%;
-        background-image: url(/img/photo7Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo7Full.png);
         background-size: 100%;
     }
     .photo8{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo8Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo8Full.png);
         background-size: 100%;
     }
     .photo9{
         width: 100%;
         margin-bottom: .3%;
-        background-image: url(/img/photo9Full.png);
+        background-image: url(orionanimals.github.io/portfolio-for-oreo//img/photo9Full.png);
         background-size: 100%;
         margin-top: 0;
         left: 0;
@@ -1047,5 +1047,3 @@ i{
 
 
 
-
-                                    /* contact design end adaptive,,,,,, design in footer */
