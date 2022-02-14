@@ -162,13 +162,13 @@ i{
 .text{
     display: block;
     background: rgba(0, 0, 0, 0.5);
-    width: 98.9%;
+    width: 100%;
     height: 100%;
     position: relative;
     color: #ffffff;
     font-family: 'Homemade Apple', cursive;
     text-align: center;
-    padding-top: 16%;
+    padding-top: 12%;
     padding-left: 20%;
     padding-right: 20%;
 
