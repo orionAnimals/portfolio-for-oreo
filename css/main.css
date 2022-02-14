@@ -1022,8 +1022,9 @@ i{
         height: 100%;
     }
     .pText{
-        height: 50%;
-        overflow: hidden;
+        height: 60%;
+        overflow: scroll;
+        overflow-x:hidden;  /*для горизонтального*/
     }
     /* about block */
     .photoInAbout1{
