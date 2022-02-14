@@ -209,14 +209,14 @@ i{
 
 .photo1{
     height: 400px;
-    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/blob/main/img/photo1.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo1.png);
     background-repeat: no-repeat;
     display: block;
     position: relative;
 }
 .photo2{
     height: 400px;
-    background-image: url(/img/photo2.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo2.png);
     background-repeat: no-repeat;
     display: block;
     position: relative;
@@ -224,14 +224,14 @@ i{
 }
 .photo3{
     height: 400px;
-    background-image: url(/img/photo3.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo3.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo4{
     height: 400px;
-    background-image: url(/img/photo4.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo4.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -239,14 +239,14 @@ i{
 }
 .photo5{
     height: 400px;
-    background-image: url(/img/photo5.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo5.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo6{
     height: 400px;
-    background-image: url(/img/photo6.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo6.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -254,14 +254,14 @@ i{
 }
 .photo7{
     height: 637px;
-    background-image: url(/img/photo7.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo7.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
 }
 .photo8{
     height: 315px;
-    background-image: url(/img/photo8.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo8.png);
     background-repeat: no-repeat;
     display: flex;
     position: relative;
@@ -269,7 +269,7 @@ i{
 }
 .photo9{
     height: 315px;
-    background-image: url(/img/photo9.png);
+    background-image: url(https://github.com/orionAnimals/portfolio-for-oreo/img/photo9.png);
     background-repeat: no-repeat;
     display: flex;
     position: static;
